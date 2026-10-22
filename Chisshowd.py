@@ -57,5 +57,10 @@ def endshow():
     # return system
 
 
+def goodbye():
+    """Displays a goodbye message after the Christmas Show."""
+    print("Thank you for watching the Christmas Show!")
+
+
 if __name__ == "__main__":
     system()
