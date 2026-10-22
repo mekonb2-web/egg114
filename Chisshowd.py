@@ -1,3 +1,7 @@
+def welcome():
+    """Displays a welcome message for the Christmas Show."""
+    print("Welcome to the Christmas Show!")
+
 def system():
     """Checks for a guest and starts the Christmas show."""
 
